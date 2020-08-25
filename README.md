@@ -3,9 +3,9 @@ Stream Benchmark (Based on https://www.cs.virginia.edu/stream/ref.html ) in UPC 
 Implemented using different programming styles in UPC
 
 ## Use cases
-You want to check that you get the maximum out of your (super)computers bandwidths: RAM <-> CPU, or network (Infiniband and alike)
-You want to check that your UPC installation performs well 
-You want to perform a stress test on your (super)computer
+* You want to check that you get the maximum out of your (super)computers bandwidths: RAM <-> CPU, or network (Infiniband and alike)
+* You want to check that your UPC installation performs well 
+* You want to perform a stress test on your (super)computer
 etc.
 
 ## V1.0 to V9.0
