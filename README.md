@@ -2,20 +2,13 @@
 Stream Benchmark in UPC ( https://upc.lbl.gov/)
 Implemented using different programming styles in UPC
 
-## V1.0_classicUpcForLoop
+## Use cases
+You want to check that you get the maximum out of your (super)computers bandwidths: RAM <-> CPU, or network (Infiniband and alike)
+You want to check that your UPC installation performs well 
+You want to perform a stress test on your (super)computer
+etc.
 
-Basic implementation of UPC Stream Benchmark using UPC global shared arrays and  upc_forall (of doom!)
-
-## V2.0_blocksizedImplementation
-
-UPC Stream Benchmark using blocks to distribute data still using upc_forall
-
-## V3.0_localPointers
-
-Using local pointers to access shared arrays and no more upc_forall
-
-## V4.0 to V9.0
-
+## V1.0 to V9.0
 Multiple levels of optimizations for UPC Stream Benchmark. The best one should be V7.0
 
 ## Usage
