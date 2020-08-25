@@ -1,5 +1,6 @@
 # upc_StreamBenchmark
 Stream Benchmark in UPC
+Implemented using different programming styles in UPC
 
 ## V1.0_classicUpcForLoop
 
