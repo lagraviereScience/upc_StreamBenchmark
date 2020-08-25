@@ -1,5 +1,5 @@
 # upc_StreamBenchmark
-Stream Benchmark in UPC ( https://upc.lbl.gov/)
+Stream Benchmark (Based on https://www.cs.virginia.edu/stream/ref.html)in UPC ( https://upc.lbl.gov/)
 Implemented using different programming styles in UPC
 
 ## Use cases
